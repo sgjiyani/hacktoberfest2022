@@ -1,2 +1,2 @@
 # hacktoberfest2022
-### Dummy repository for Hacktoberfest 2022
+### Repository for Hacktoberfest 2022
